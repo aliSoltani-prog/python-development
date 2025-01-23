@@ -1,11 +1,11 @@
-# week 1
+# week 2
 this week i cotinued the python development course so i made progress.
 ## what did i do in this week
 i continue wtching mr.ordookhani top learn videos and they very useful.ths week was about the loop and conditional statement.
 
 in this week my mentor wants me to give four projects such as : 
 
- week 1 projects
+ week 2 projects
 ---
 1- Decision_maker
 
