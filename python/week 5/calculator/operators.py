@@ -1,7 +1,5 @@
 import math
 
-
-
 def additional(first , second):
     print(f"{first} + {second} = {first+second}")
 

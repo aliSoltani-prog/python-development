@@ -1,14 +1,10 @@
-import opratroes
-
-
-
-
+import operators
 
 while True:
     print("1.additional")
-    print("2.")
-    print("3.")
-    print("4.")
+    print("2.Subtraction")
+    print("3.Multiplication")
+    print("4.Division")
     print("5.radical")
     print("6.Cotangent")
     print("7.Tangent")

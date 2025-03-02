@@ -1,0 +1,22 @@
+[
+    {"name":"cake",
+    "price":15000},
+    {"name":"still water",
+    "price":5000},
+    {"name":"big milk",
+    "price":25000},
+    {"name":"small milk",
+    "price":15000},
+    {"name":"soap",
+    "price":7000},
+    {"name":"coca cola",
+    "price":17000},
+    {"name":"fanta",
+    "price":17000},
+    {"name":"pen",
+    "price":3000},
+    {"name":"book",
+    "price":10000},
+    {"name":"sprite",
+    "price":17000}
+]
